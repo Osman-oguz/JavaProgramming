@@ -1,4 +1,4 @@
-package day38_Inheritance.Car;
+package day38_Inheritance.CarTask;
 
 public class Car {
   public String brand, model;
