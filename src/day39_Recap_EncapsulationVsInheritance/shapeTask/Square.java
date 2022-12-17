@@ -1,4 +1,4 @@
-package day39_Recap_EncapsulationVsInheritance.ShapeTask;
+package day39_Recap_EncapsulationVsInheritance.shapeTask;
 
 public class Square extends Shape{
     private double side;

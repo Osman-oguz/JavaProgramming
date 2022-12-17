@@ -1,4 +1,4 @@
-package day39_Recap_EncapsulationVsInheritance.ShapeTask;
+package day39_Recap_EncapsulationVsInheritance.shapeTask;
 
 public class Rectangle extends Shape {
     private double length, width;

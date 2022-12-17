@@ -1,4 +1,4 @@
-package day39_Recap_EncapsulationVsInheritance.ShapeTask;
+package day39_Recap_EncapsulationVsInheritance.shapeTask;
 
 public class Shape {
     private String name;
