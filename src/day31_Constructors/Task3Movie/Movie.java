@@ -29,7 +29,7 @@ public class Movie {
                 "country='" + country + '\'' +
                 ", title='" + title + '\'' +
                 ", releaseDate='" + releaseDate + '\'' +
-                ", Total Number Of Cast='" + castList.size() +
+                ", Total Number Of Cast= " + castList.size() +
                 '}';
     }
 }
