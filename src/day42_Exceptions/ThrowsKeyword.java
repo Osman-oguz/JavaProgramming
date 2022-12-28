@@ -28,3 +28,4 @@ public class ThrowsKeyword {
 
     }
 }
+// 57 min  Disadvantages of Throws
