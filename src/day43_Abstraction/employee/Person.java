@@ -26,7 +26,7 @@ public abstract class Person {
 
     public void setAge(int age) {
         if (age <= 0){
-            throw new RuntimeException("Invalid age:" + age)
+            throw new RuntimeException("Invalid age:" + age);
         }
         this.age = age;
     }
